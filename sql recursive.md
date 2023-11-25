@@ -2,7 +2,7 @@
 created: 2023-11-24
 tags:
   - prog/sql
-share: "true"
+githubshare: "true"
 ---
 
 [Create a new MySQL program - myCompiler - myCompiler](https://www.mycompiler.io/new/mysql)
