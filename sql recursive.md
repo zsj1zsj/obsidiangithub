@@ -2,12 +2,12 @@
 created: 2023-11-24
 tags:
   - prog/sql
-share: "true"
+githubshare: "true"
 ---
 
 [Create a new MySQL program - myCompiler - myCompiler](https://www.mycompiler.io/new/mysql)
 [What Is a Recursive CTE in SQL? | LearnSQL.com](https://learnsql.com/blog/sql-recursive-cte/)
-
+helloworld
 # 例子
 ```sql 
 with recursive t(n) as (
